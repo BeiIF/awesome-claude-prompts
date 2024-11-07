@@ -5,7 +5,7 @@
 
 Welcome to the "Awesome Claude Prompts" repository! This is a collection of prompt examples to be used with the Claude model.
 
-The [Claude](https://claude.ai/) model is an AI assistant created by [Anthropic](https://anthropic.com/) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt. 
+该 [Claude](https://claude.ai/) model is an AI assistant created by [Anthropic](https://anthropic.com/) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt. 
 
 [Claude](https://claude.ai/) offers many amazing features that [ChatGPT](https://ai.com) does not support, such as longer contexts (up to 100k), free file uploading, etc., making it more powerful than ChatGPT. 
 
